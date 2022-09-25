@@ -1,2 +1,2 @@
-# Simple Product Review Application with ReactJS using TailwindCSS
-Product review site with ReactJS
+# 📜 Product Review Site
+Simple Product Review Application with ReactJS using TailwindCSS
